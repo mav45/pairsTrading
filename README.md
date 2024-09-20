@@ -1,0 +1,2 @@
+# pairsTrading
+Pairs trading script 
